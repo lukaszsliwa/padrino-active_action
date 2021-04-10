@@ -15,13 +15,13 @@ Visit the parent [ruby-active_action](https://github.com/lukaszsliwa/active_acti
 Add this line to your application's Gemfile:
 
 ```ruby
-gem 'padrino-active_action', '~> 3.0.7'
+gem 'padrino-active_action', '~> 3.0.8'
 ```
 
 or use original gem:
 
 ```ruby
-gem 'ruby-active_action', '~> 3.0.7'
+gem 'ruby-active_action', '~> 3.0.8'
 ```
 
 or use alternative gems:

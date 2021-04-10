@@ -1,13 +1,13 @@
 GEM
   remote: https://rubygems.org/
   specs:
-    ruby-active_action (3.0.1)
+    ruby-active_action (3.0.8)
 
 PLATFORMS
   ruby
 
 DEPENDENCIES
-  ruby-active_action (~> 3.0.1)
+  ruby-active_action (~> 3.0.8)
 
 BUNDLED WITH
    2.1.4
